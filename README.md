@@ -3,8 +3,8 @@ Base de conhecimento em programação desenvolvido durante Imersão DEV Alura co
 
 # 📖 Base de Conhecimento Tech
 
+<img width="1348" height="619" alt="Captura de tela de 2025-11-22 17-23-18" src="https://github.com/user-attachments/assets/d7095b00-8e08-4277-968d-ba2b81070c15" />
 
-https://imgur.com/gallery/imagem-de-desenvolvimento-web-wTIb95r
 
 Um glossário interativo de tecnologias de programação, desenvolvido como parte da **Imersão DEV da Alura**. Este projeto é uma Single Page Application (SPA) que permite aos usuários pesquisar e filtrar dinamicamente uma lista de linguagens, frameworks e ferramentas de desenvolvimento, com dados carregados de forma assíncrona.
 
